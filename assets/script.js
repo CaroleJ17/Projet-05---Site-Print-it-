@@ -5,8 +5,7 @@ const slides = [
   },
   {
     image: "slide2.jpg",
-    tagLine:
-      "Tirages haute définition grand format <span>pour vos bureaux et events</span>",
+    tagLine: "Tirages haute définition grand format <span>pour vos bureaux et events</span>",
   },
   {
     image: "slide3.jpg",
